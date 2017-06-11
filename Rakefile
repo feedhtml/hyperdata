@@ -5,7 +5,7 @@ Hoe.spec 'hyperdata' do
 
   self.version = Hyperdata::VERSION
 
-  self.summary = "hyperdata - turn hypertext web pages into structured data (supports Feed.HTML n friends)"
+  self.summary = "hyperdata - turn hypertext from web pages into structured data (supports Feed.HTML n friends)"
   self.description = summary
 
   self.urls    = ['https://github.com/feedhtml/hyperdata']

@@ -1,4 +1,4 @@
-# hyperdata gem - turn hypertext web pages into structured data (supports Feed.HTML n friends)
+# hyperdata gem - turn hypertext from web pages into structured data (supports Feed.HTML n friends)
 
 
 * home  :: [github.com/feedhtml/hyperdata](https://github.com/feedhtml/hyperdata)
